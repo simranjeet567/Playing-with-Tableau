@@ -1,4 +1,5 @@
 # Playing-with-Tableau
+
 # Task 1. Analyzing total sales in different categories(Furniture, Office supplies, Technology) using vertical bars.
 
 ![image](https://github.com/user-attachments/assets/2e9a8401-ad60-4c06-abf6-d9ed5e380cd5)
@@ -37,6 +38,17 @@
 # Task 8. Minimum profit in different categories using vertical bars.
 
 ![image](https://github.com/user-attachments/assets/22d52f84-d4c4-4f2d-8539-e32729b022a5)
+
+
+# Task 9. Playing with filters. Analyzing sales for Category = 'Furniture', Region = 'Central', Ship Mode = 'Standard Class'.
+
+![image](https://github.com/user-attachments/assets/bba0f564-c753-4d62-a642-6f8a615e3527)
+
+
+# Task 10. Playing with filters. Analyzing average sales for Category = 'Furniture', Region = 'Central', Ship Mode = 'Standard Class'.
+
+![image](https://github.com/user-attachments/assets/fa9461bc-f300-41d4-ad9d-bac7b5ea8dbf)
+
 
 
 
