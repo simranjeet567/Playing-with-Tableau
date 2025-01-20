@@ -1,5 +1,4 @@
-# Playing-with-Tableau: Super Store Data Analysis and Visualization
-
+# Super Store Data Analysis and Visualization
 
 # Task 1. Analyzing total sales in different categories(Furniture, Office supplies, Technology) using vertical bars.
 
