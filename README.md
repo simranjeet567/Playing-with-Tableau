@@ -50,6 +50,14 @@
 ![image](https://github.com/user-attachments/assets/fa9461bc-f300-41d4-ad9d-bac7b5ea8dbf)
 
 
+# Task 11. Playing with filters. Analyzing profit for Category = 'Furniture' and 'Technology', Region = 'East', Ship Mode = 'First Class'.
+
+![image](https://github.com/user-attachments/assets/9b094037-187e-4b25-a107-e10045b76c36)
+
+
+# Task 12. Playing with filters. Analyzing average profit for Category = 'Furniture, Technology and Office supplies', Region = 'South', Ship Mode = 'First Class'.
+
+![image](https://github.com/user-attachments/assets/986211f0-6a4e-4980-aae0-1d5fb061fd44)
 
 
 
