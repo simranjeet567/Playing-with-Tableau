@@ -139,4 +139,27 @@ if the sales is less, the width of the bar is less. if the sales is more, the wi
 ![image](https://github.com/user-attachments/assets/a0ef3f75-ebde-4ec1-bbbb-50e5b8828868)
 
 
+# Task 26. Analyzing year wise sales as per the order date across all the regions.
+
+![image](https://github.com/user-attachments/assets/4fbce505-4e7b-41fd-b2dd-f3a8ef57a9d1)
+
+
+# Task 27. Analyzing quarter wise sales as per the order date across all the regions.
+
+![image](https://github.com/user-attachments/assets/d47b19ad-e8b0-4483-9c55-6c296d9a7202)
+
+
+# Task 28. Analyzing month wise sales as per the order date across all the regions.
+
+![image](https://github.com/user-attachments/assets/ccf95f3c-1f36-401f-97ce-16fef682b049)
+
+
+# Task 29. Analyzing day wise sales across all the months as per the order date in all the regions.
+
+![image](https://github.com/user-attachments/assets/569fcffa-a08d-4905-bdb6-4feb90d08e47)
+![image](https://github.com/user-attachments/assets/262c0328-ccb4-4627-8ee1-46d6076bcc6c)
+![image](https://github.com/user-attachments/assets/11131950-87e5-4db8-84f6-be4798d5fb55)
+![image](https://github.com/user-attachments/assets/30cd3856-2eef-400c-9dfd-51523029c6cb)
+
+
 
