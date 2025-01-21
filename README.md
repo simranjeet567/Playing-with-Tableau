@@ -105,5 +105,12 @@
 ![image](https://github.com/user-attachments/assets/b35b25e2-460a-4d62-92f0-754284b0a8e7)
 
 
+# Task 21. Playing with size.
+
+![image](https://github.com/user-attachments/assets/24f838c6-4116-4a54-9fb0-d8a9da378c6e)
+![image](https://github.com/user-attachments/assets/32e3f4b4-f8d1-4250-906d-7c34885cc6f0)
+if the sales is less, the width of the bar is less. if the sales is more, the width of the bar is more.
+
+
 
 
