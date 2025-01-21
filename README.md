@@ -173,4 +173,21 @@ if the sales is less, the width of the bar is less. if the sales is more, the wi
 ![image](https://github.com/user-attachments/assets/c90e486d-2469-4111-80c7-8ea4cf87d6e5)
 
 
+# Task 32. Playing with Dashboard.
+
+first making all the sheets:
+sheet 1:
+![image](https://github.com/user-attachments/assets/8c13c9bb-e2cb-442b-b83c-2d1e6a4a536b)
+
+sheet 2:
+![image](https://github.com/user-attachments/assets/5cbb615c-b9af-4356-a8fe-ae06db63ecf8)
+
+sheet 3:
+![image](https://github.com/user-attachments/assets/f5200183-d268-4b66-a6a4-cb0f7045749e)
+
+sheet 4:
+![image](https://github.com/user-attachments/assets/4cdc5ef1-16a6-464f-9c94-3fa5763a026e)
+
+Now, showing all the sheets collectively on the dashboard:
+![image](https://github.com/user-attachments/assets/8a958fe1-30d0-47d5-9ce5-15f4abb792c1)
 
