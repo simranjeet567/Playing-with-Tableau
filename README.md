@@ -112,49 +112,49 @@
 if the sales is less, the width of the bar is less. if the sales is more, the width of the bar is more.
 
 
-# Task 21. Playing with detail.
+# Task 22. Playing with detail.
 
 ![image](https://github.com/user-attachments/assets/0b66142e-122c-4bfe-b9d6-e3088ccbcc28)
 ![image](https://github.com/user-attachments/assets/a0ba5f14-d780-4eb5-91cc-c5294375dc6d)
 
 
-# Task 22. Analyzing sales as per the order date.
+# Task 23. Analyzing sales as per the order date.
 
 ![image](https://github.com/user-attachments/assets/f120b06a-bcf8-46d1-b169-3ce770d6e346)
 
 
-# Task 23. Analyzing quarter wise sales as per the order date.
+# Task 24. Analyzing quarter wise sales as per the order date.
 
 ![image](https://github.com/user-attachments/assets/96f6c56b-e1c9-441e-bab9-fa83e8a0f158)
 
 
-# Task 24. Analyzing month wise sales as per the order date.
+# Task 25. Analyzing month wise sales as per the order date.
 
 ![image](https://github.com/user-attachments/assets/4c8b90c0-be47-4208-85b2-61326af5d91f)
 
 
-# Task 25. Analyzing day wise sales across all the months as per the order date.
+# Task 26. Analyzing day wise sales across all the months as per the order date.
 
 ![image](https://github.com/user-attachments/assets/785de569-5e18-4719-a71c-e9cd792d21a7)
 ![image](https://github.com/user-attachments/assets/a0ef3f75-ebde-4ec1-bbbb-50e5b8828868)
 
 
-# Task 26. Analyzing year wise sales as per the order date across all the regions.
+# Task 27. Analyzing year wise sales as per the order date across all the regions.
 
 ![image](https://github.com/user-attachments/assets/4fbce505-4e7b-41fd-b2dd-f3a8ef57a9d1)
 
 
-# Task 27. Analyzing quarter wise sales as per the order date across all the regions.
+# Task 28. Analyzing quarter wise sales as per the order date across all the regions.
 
 ![image](https://github.com/user-attachments/assets/d47b19ad-e8b0-4483-9c55-6c296d9a7202)
 
 
-# Task 28. Analyzing month wise sales as per the order date across all the regions.
+# Task 29. Analyzing month wise sales as per the order date across all the regions.
 
 ![image](https://github.com/user-attachments/assets/ccf95f3c-1f36-401f-97ce-16fef682b049)
 
 
-# Task 29. Analyzing day wise sales across all the months as per the order date in all the regions.
+# Task 30. Analyzing day wise sales across all the months as per the order date in all the regions.
 
 ![image](https://github.com/user-attachments/assets/569fcffa-a08d-4905-bdb6-4feb90d08e47)
 ![image](https://github.com/user-attachments/assets/262c0328-ccb4-4627-8ee1-46d6076bcc6c)
@@ -162,18 +162,18 @@ if the sales is less, the width of the bar is less. if the sales is more, the wi
 ![image](https://github.com/user-attachments/assets/30cd3856-2eef-400c-9dfd-51523029c6cb)
 
 
-# Task 30. Playing with Pie chart to analyze year wise sales as per the order date across all the regions.
+# Task 31. Playing with Pie chart to analyze year wise sales as per the order date across all the regions.
 
 ![image](https://github.com/user-attachments/assets/e6f9facf-3d40-43c2-9199-26837893bdb9)
 
 
-# Task 31. Playing with running total.
+# Task 32. Playing with running total.
 
 ![image](https://github.com/user-attachments/assets/9c688118-943b-4155-bdbf-cc80e3d20871)
 ![image](https://github.com/user-attachments/assets/c90e486d-2469-4111-80c7-8ea4cf87d6e5)
 
 
-# Task 32. Playing with Dashboard.
+# Task 33. Playing with Dashboard.
 
 first making all the sheets:
 sheet 1:
