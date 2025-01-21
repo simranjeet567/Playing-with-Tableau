@@ -118,5 +118,17 @@ if the sales is less, the width of the bar is less. if the sales is more, the wi
 ![image](https://github.com/user-attachments/assets/a0ba5f14-d780-4eb5-91cc-c5294375dc6d)
 
 
+# Task 22. Analyzing sales as per the order date.
 
+![image](https://github.com/user-attachments/assets/f120b06a-bcf8-46d1-b169-3ce770d6e346)
+
+
+# Task 23. Analyzing quarter wise sales as per the order date.
+
+![image](https://github.com/user-attachments/assets/96f6c56b-e1c9-441e-bab9-fa83e8a0f158)
+
+
+# Task 24. Analyzing month wise sales as per the order date.
+
+![image](https://github.com/user-attachments/assets/4c8b90c0-be47-4208-85b2-61326af5d91f)
 
