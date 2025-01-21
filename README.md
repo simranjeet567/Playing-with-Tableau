@@ -72,15 +72,26 @@
 ![image](https://github.com/user-attachments/assets/ad245cec-6ab2-4905-8ccd-51c980148948)
 
 
-# Task 14. Playing with format to see sales in rupees.
+# Task 15. Playing with format to see sales in rupees.
 
 ![image](https://github.com/user-attachments/assets/a0b35c85-4333-489d-9e53-f2b3b2e4bd70)
 
 
-# Task 15. Playing with format to see sales in dollars.
+# Task 16. Playing with format to see sales in dollars.
 
 ![image](https://github.com/user-attachments/assets/94e55622-0736-419d-ac1e-db105b5f9232)
 
 
+# Task 17. Playing with format and aligning the sales amount at center.
+
+![image](https://github.com/user-attachments/assets/701a5937-ea7e-4004-9684-74c645330bd8)
 
 
+# Task 18. Playing with tooltip.
+
+![image](https://github.com/user-attachments/assets/54391d13-2609-4c9b-872a-afa52a851e67)
+
+
+# Task 19. Analyzing sales of different sub-categories across all the regions.
+
+![image](https://github.com/user-attachments/assets/01e96a3b-4a97-4ceb-91ef-70ca8360cf75)
