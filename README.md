@@ -166,3 +166,10 @@ if the sales is less, the width of the bar is less. if the sales is more, the wi
 
 ![image](https://github.com/user-attachments/assets/e6f9facf-3d40-43c2-9199-26837893bdb9)
 
+
+# Task 31. Playing with running total.
+
+![image](https://github.com/user-attachments/assets/9c688118-943b-4155-bdbf-cc80e3d20871)
+
+
+
