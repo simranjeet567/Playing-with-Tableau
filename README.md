@@ -68,9 +68,7 @@
 # Task 14. Playing with Label to get exact sales data in each of the sub-categories.
 
 ![image](https://github.com/user-attachments/assets/61981ae4-f073-43ec-a257-23ef455a6abe)
-#-------------------------------------------------------------------------------------------
 ![image](https://github.com/user-attachments/assets/5d4f320f-a239-42cd-b5f3-836beedb7de2)
-#-------------------------------------------------------------------------------------------
 ![image](https://github.com/user-attachments/assets/ad245cec-6ab2-4905-8ccd-51c980148948)
 
 
