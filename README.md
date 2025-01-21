@@ -112,5 +112,11 @@
 if the sales is less, the width of the bar is less. if the sales is more, the width of the bar is more.
 
 
+# Task 21. Playing with detail.
+
+![image](https://github.com/user-attachments/assets/0b66142e-122c-4bfe-b9d6-e3088ccbcc28)
+![image](https://github.com/user-attachments/assets/a0ba5f14-d780-4eb5-91cc-c5294375dc6d)
+
+
 
 
