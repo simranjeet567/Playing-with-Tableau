@@ -60,4 +60,16 @@
 ![image](https://github.com/user-attachments/assets/986211f0-6a4e-4980-aae0-1d5fb061fd44)
 
 
+# Task 13. Playing with Label to get exact sales data in each of the category.
+
+![image](https://github.com/user-attachments/assets/14ab7ded-e395-446a-bb57-bd7050b88dd1)
+
+
+# Task 14. Playing with Label to get exact sales data in each of the sub-categories.
+
+![image](https://github.com/user-attachments/assets/61981ae4-f073-43ec-a257-23ef455a6abe)
+![image](https://github.com/user-attachments/assets/5d4f320f-a239-42cd-b5f3-836beedb7de2)
+![image](https://github.com/user-attachments/assets/ad245cec-6ab2-4905-8ccd-51c980148948)
+
+
 
