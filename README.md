@@ -132,3 +132,11 @@ if the sales is less, the width of the bar is less. if the sales is more, the wi
 
 ![image](https://github.com/user-attachments/assets/4c8b90c0-be47-4208-85b2-61326af5d91f)
 
+
+# Task 25. Analyzing day wise sales across all the months as per the order date.
+
+![image](https://github.com/user-attachments/assets/785de569-5e18-4719-a71c-e9cd792d21a7)
+![image](https://github.com/user-attachments/assets/a0ef3f75-ebde-4ec1-bbbb-50e5b8828868)
+
+
+
