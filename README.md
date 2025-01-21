@@ -72,4 +72,15 @@
 ![image](https://github.com/user-attachments/assets/ad245cec-6ab2-4905-8ccd-51c980148948)
 
 
+# Task 14. Playing with format to see sales in rupees.
+
+![image](https://github.com/user-attachments/assets/a0b35c85-4333-489d-9e53-f2b3b2e4bd70)
+
+
+# Task 15. Playing with format to see sales in dollars.
+
+![image](https://github.com/user-attachments/assets/94e55622-0736-419d-ac1e-db105b5f9232)
+
+
+
 
