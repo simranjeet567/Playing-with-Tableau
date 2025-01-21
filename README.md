@@ -100,4 +100,6 @@
 # Task 20. Analyzing sales of different categories across all the regions.
 
 ![image](https://github.com/user-attachments/assets/192e93cf-dc07-4f8d-a96a-e20c5224451e)
+![image](https://github.com/user-attachments/assets/4df75784-2c88-46c1-8a23-2cf137b10465)
+
 
