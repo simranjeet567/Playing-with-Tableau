@@ -162,4 +162,7 @@ if the sales is less, the width of the bar is less. if the sales is more, the wi
 ![image](https://github.com/user-attachments/assets/30cd3856-2eef-400c-9dfd-51523029c6cb)
 
 
+# Task 30. Playing with Pie chart to analyze year wise sales as per the order date across all the regions.
+
+![image](https://github.com/user-attachments/assets/e6f9facf-3d40-43c2-9199-26837893bdb9)
 
