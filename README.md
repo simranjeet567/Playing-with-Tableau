@@ -95,3 +95,9 @@
 # Task 19. Analyzing sales of different sub-categories across all the regions.
 
 ![image](https://github.com/user-attachments/assets/01e96a3b-4a97-4ceb-91ef-70ca8360cf75)
+
+
+# Task 20. Analyzing sales of different categories across all the regions.
+
+![image](https://github.com/user-attachments/assets/192e93cf-dc07-4f8d-a96a-e20c5224451e)
+
