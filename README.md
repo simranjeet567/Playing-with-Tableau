@@ -170,6 +170,7 @@ if the sales is less, the width of the bar is less. if the sales is more, the wi
 # Task 31. Playing with running total.
 
 ![image](https://github.com/user-attachments/assets/9c688118-943b-4155-bdbf-cc80e3d20871)
+![image](https://github.com/user-attachments/assets/c90e486d-2469-4111-80c7-8ea4cf87d6e5)
 
 
 
